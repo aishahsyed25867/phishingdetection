@@ -66,6 +66,7 @@ pip install -r requirements.txt
 ---
 
 ## 📂 Project Structure
+
 phishingdetection/
 ├── Phishing_Detection_NB.ipynb  # Main notebook
 ├── confusion_matrix.png          # Model evaluation plot
