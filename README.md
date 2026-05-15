@@ -7,6 +7,12 @@ Phishing detection is a classification problem. This project trains a Naive Baye
 model on a public Spam vs Ham dataset to filter suspicious retail emails, 
 then tests it against real-world phishing scenarios.
 ---
+## 🏗️ System Design & Architecture
+
+For a detailed breakdown of how this system is designed and implemented, please refer to the documentation:
+* [High-Level Design (HLD)](docs/HLD - IBM.pdf.pdf) — System architecture, data flow, and components.
+* [Low-Level Design (LLD)](docs/LLD - IBM.pdf.pdf) — Text preprocessing logic, Bag-of-Words feature engineering, and Naive Bayes classifier details.
+---
 ## 🎯 Objective
 Train a spam classifier for retail using Python and Scikit-Learn to filter emails 
 and detect phishing attempts.
